@@ -1,2 +1,2 @@
 
-Exercícios de Algoritmos genéticos e Otimização de Otimização por Enxame de Partículas
+Exercícios de Algoritmos genéticos e Otimização por Enxame de Partículas
